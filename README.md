@@ -25,14 +25,11 @@ A beautiful Flutter application that allows users to save and manage their favor
 > **Note**: Add your app screenshots here in the following format:
 <div align="center">
 <img src="https://github.com/user-attachments/assets/2efdc49f-6212-4a99-bccd-ffc793c2c7b7" width="250" alt="Home Screen">
-<div align="center">
 <img src="https://github.com/user-attachments/assets/e636f19a-5f76-42af-9e71-3a8d8f2d7774" width="250" alt="Home Screen">
-<div align="center">
 <img src="https://github.com/user-attachments/assets/03bd4b81-4b12-42ef-9103-9f760f9318e2" width="250" alt="Home Screen">
-<div align="center">
 <img src="https://github.com/user-attachments/assets/f3b79803-e8ab-4204-aadb-fe7d780a624b" width="250" alt="Home Screen">
-<div align="center">
 <img src="https://github.com/user-attachments/assets/32c7edba-8509-4332-97bf-2d2b158831df" width="250" alt="Home Screen">
+</div>
 
 
 ## 🛠 Tech Stack
