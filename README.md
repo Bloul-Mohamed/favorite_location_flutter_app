@@ -89,16 +89,6 @@ A beautiful Flutter application that allows users to save and manage their favor
    flutter run
    ```
 
-### Platform-specific Setup
-
-#### Android
-- Add Google Maps API key to `android/app/src/main/AndroidManifest.xml`
-- Ensure location permissions are configured
-
-#### iOS
-- Add Google Maps API key to `ios/Runner/AppDelegate.swift`
-- Configure location permissions in `Info.plist`
-
 ## 📂 Project Structure
 
 ```
@@ -187,28 +177,6 @@ Choose from multiple map border styles:
 - Location Services: "This app uses location to tag your favorite places"
 - Camera: "This app uses camera to capture photos of your places"
 - Photo Library: "This app accesses photos to attach to your places"
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🐛 Known Issues
-
-- None currently reported
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
 
 ## 🙏 Acknowledgments
 
