@@ -25,17 +25,11 @@ A beautiful Flutter application that allows users to save and manage their favor
 > **Note**: Add your app screenshots here in the following format:
 
 ```
-![Home Screen](screenshots/home_screen.png)
-*Home screen showing places list and image gallery*
-
-![Add Place](screenshots/add_place.png)
-*Adding a new place with photo and location*
-
-![Place Details](screenshots/place_details.png)
-*Detailed view of a saved place*
-
-![Map View](screenshots/map_view.png)
-*Interactive Google Maps integration*
+![Image](https://github.com/user-attachments/assets/2efdc49f-6212-4a99-bccd-ffc793c2c7b7)
+![Image](https://github.com/user-attachments/assets/e636f19a-5f76-42af-9e71-3a8d8f2d7774)
+![Image](https://github.com/user-attachments/assets/03bd4b81-4b12-42ef-9103-9f760f9318e2)
+![Image](https://github.com/user-attachments/assets/f3b79803-e8ab-4204-aadb-fe7d780a624b)
+![Image](https://github.com/user-attachments/assets/32c7edba-8509-4332-97bf-2d2b158831df)
 ```
 
 ## 🛠 Tech Stack
